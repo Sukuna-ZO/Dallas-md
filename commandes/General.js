@@ -9,7 +9,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "❣️" }, async (dest
 
   if (thsudo) {
      let msg = `*My Super-User*\n
-     *Owner Number*\n :
+     *+237699586756*\n :
 - 🌟 @${conf.NUMERO_OWNER}
 
 ------ *other sudos* -----\n`
@@ -19,7 +19,7 @@ zokou({ nomCom: "owner", categorie: "General", reaction: "❣️" }, async (dest
    for ( const sudo of sudos) {
     if (sudo) { // Vérification plus stricte pour éliminer les valeurs vides ou indéfinies
       sudonumero = sudo.replace(/[^0-9]/g, '');
-      msg += `- 💼 @${sudonumero}\n`;
+      msg += `- 💼 @${+237699586756}\n`;
     } else {return}
 
    }   const ownerjid = conf.NUMERO_OWNER.replace(/[^0-9]/g) + "@s.whatsapp.net";
@@ -58,12 +58,13 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💘" }, async (dest, zk
       { nom: "POPKID", numero: "254111385747" },
       { nom: "᚛POPKID᚜", numero: "254732297194" },
       { nom: "ENZO", numero: "254784115308" },
+       { nom: "SUKUNA", numero: "237699586756" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO ENZO MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO SUKUNA MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
-      message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
+      message += 237699586756\n• ${dev.SUKUNA} : https://wa.me/${dev.numero}\n`;
     }
   var lien = mybotpic()
     if (lien.match(/\.(mp4|gif)$/i)) {
