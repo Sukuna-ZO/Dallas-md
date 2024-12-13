@@ -7,16 +7,16 @@
 <up A simple WhatsApp User Bot Coded By Sukuna</u>
 </p>
 <p align="center">
-<img src="https://www.google.com/imgres?q=sukuna&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fc6%2Ff3%2Fc6%2Fc6f3c695c8096a761b7fa33ab25340ca.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsukunaimage-gallery--873276183970560441%2F&docid=C2KxsBTU2050SM&tbnid=XPDSPMeUNO18tM&vet=12ahUKEwithJvj66SKAxWfZ0EAHUcxEAwQM3oECBkQAA..i&w=735&h=414&hcb=2&ved=2ahUKEwithJvj66SKAxWfZ0EAHUcxEAwQM3oECBkQAA"/>       
+<img src="https://files.catbox.moe/97c4me.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RAYAN+AND+GIFFAREO;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+KERM-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+Sukuna;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Sukuna-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Kgtech-cmr"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/C7bA8NDFYiiJi9H4XA54Nc"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237699586756?text=Hi+Sukuna☺️"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/Sukuna-ZO"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/C7bA8NDFYiiJi9H4XA54Nc"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/237699586756?text=Hi+Sukuna☺️"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
