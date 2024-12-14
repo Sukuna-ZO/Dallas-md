@@ -42,13 +42,12 @@
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
-1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://Dallas-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
-2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/GlobalTechInfo/SUHAIL-XMD/fork)***
+2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`]().***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Sukuna-ZO/Dallas-md/fork)***
    
 4. ## How To Deploy On Github.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/T77rQM7Nk5k?si=gg-LJxS6vC6kBEpJ)
 
 • Create a new file [`.github/workflows/deploye.yml`] After created, copy this code👇🏽and paste it there
 ```yml
