@@ -42,7 +42,9 @@
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
-1. ***Get [`SESSION ID`](https://Dallas-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***<a href="https://kgtech-v2-session.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="https://kgtech-v2-session.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a> `***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`]().***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Sukuna-ZO/Dallas-md/fork)***
